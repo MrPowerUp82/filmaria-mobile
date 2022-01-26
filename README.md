@@ -2,7 +2,7 @@
 
 ## Sobre
 
-App que eu desenvolvi num curso que depois, acabei modificando e trocando a api por uma minha, para poder realmente assistir os filmes.
+App que eu desenvolvi num curso que depois acabei modificando e trocando a api por uma minha, para poder realmente assistir os filmes.
 
 ### `Instalação (Dev) && Inicialização`
 
